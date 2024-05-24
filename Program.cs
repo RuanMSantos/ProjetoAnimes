@@ -5,7 +5,7 @@ Console.ForegroundColor = ConsoleColor.DarkYellow;
 Console.WriteLine(FiggleFonts.Big.Render("Personagens aleatorios"));
 Console.ResetColor();
 
-Console.WriteLine("\nPressione para continuar...");
+Console.WriteLine("\nPressione qualquer tecla para continuar...");
 Console.ReadKey();
 Console.Clear();
 
