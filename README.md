@@ -10,7 +10,7 @@ Este programa tem a funcionalidade de sortear personagens aleatórios de animes,
 
 ## Teste o programa!
 
-[download do programa😁](Programaparabaixar\ProjetoAnimes.zip)
+[download do programa😁](dist/ProjetoAnimes.zip)
 
 ### Comando para executar o programa
 ```
