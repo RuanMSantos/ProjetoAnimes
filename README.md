@@ -10,7 +10,7 @@ Este programa tem a funcionalidade de sortear personagens aleatórios de animes,
 
 ## Teste o programa!
 
-[download do programa😁](dist/ProjetoAnimes.zip)
+[Download do programa😁](dist/ProjetoAnimes.zip)
 
 ### Comando para executar o programa
 ```
@@ -20,5 +20,5 @@ dotnet ProjetoAnimes.dll
 ---
 ## Agradecimentos
 
-- [Ermoneges Palacio](https://github.com/ermogenes#ermogenes-palacio-)
-- [Diego Neri](https://github.com/diegoneri)
+- [Professor Ermoneges Palacio](https://github.com/ermogenes#ermogenes-palacio-)
+- [Professor Diego Neri](https://github.com/diegoneri)
